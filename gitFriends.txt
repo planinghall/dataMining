@@ -10,3 +10,8 @@ git commit -m "Some message here"
 
 git push origin someBranchName
  - saves changes to remote
+
+git checkout -b someNewBranchName
+ - use the "-b" if you are making a new branch
+ - if you are simply switching branches, do not use this flag
+	 - i.e. git checkout someNewBranchName
