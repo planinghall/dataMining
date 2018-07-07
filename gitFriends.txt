@@ -15,3 +15,7 @@ git checkout -b someNewBranchName
  - use the "-b" if you are making a new branch
  - if you are simply switching branches, do not use this flag
 	 - i.e. git checkout someNewBranchName
+
+in order to update local repository based on changes in remote
+git fetch --all
+git pull origin remoteName (remoteName might be master)
