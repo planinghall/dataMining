@@ -1,0 +1,23 @@
+red can buoy
+green can buoy
+navigation channel
+
+red can buoy
+white can buoy
+green can buoy
+black can buoy
+light buoy
+acoustics
+
+small black buoy
+large black buoy
+general obstacle avoidance
+
+red can buoy
+green can buoy
+blue can buoy
+yellow can buoy
+find totems
+
+dock
+detect and deliver
