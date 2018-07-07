@@ -1,1 +1,12 @@
 git status
+ - shows what branch you are currently working on (DONT BE MASTER)
+ - shows what files are or are not staged
+
+git add --all
+ - stages all files that have been edited, but not staged
+
+git commit -m "Some message here"
+ - saves all staged files to local repository
+
+git push origin someBranchName
+ - saves changes to remote
